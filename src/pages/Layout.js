@@ -11,10 +11,15 @@ const Layout = () => {
             <Container>
             <Navbar.Brand href="/">CREATIVE EDU</Navbar.Brand>
             <Nav className="me-auto">
-                <Nav.Link href="/">Lections</Nav.Link>
-                <Nav.Link href="#grammar">Grammar</Nav.Link>
-                <Nav.Link href="#dictionary">Dictionary</Nav.Link>
+                <Nav.Link href="/">Lessons</Nav.Link>
+                {/* <Nav.Link href="/grammar">Grammar</Nav.Link> */}
+                <Nav.Link href="/result">Result</Nav.Link>
             </Nav>
+            <Navbar.Collapse className="justify-content-end">
+              <Navbar.Text>
+                Welcome: <a href="https://www.linkedin.com/in/shyhrete-buzaku-a3386615b/" target='_blank'>Shyhrete Buzaku</a>
+              </Navbar.Text>
+            </Navbar.Collapse>
             </Container>
         </Navbar>
         <Outlet/>
