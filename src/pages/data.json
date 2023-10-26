@@ -55,7 +55,7 @@
         "id": "2",
         "lesson": "Lesson 2",
         "titleEn": "Food",
-        "titleDe": "Food",
+        "titleDe": "Essen",
         "img": "/food.jpeg",
         "details": [
             {
@@ -143,7 +143,7 @@
         "id": "3",
         "lesson": "Lesson 3",
         "titleEn": "Family",
-        "titleDe": "Familien",
+        "titleDe": "Familie",
         "img": "/family.jpeg",
         "details": [
             {
@@ -216,7 +216,7 @@
         "id": "4",
         "lesson": "Lesson 4",
         "titleEn": "Numbers",
-        "titleDe": "Nummers",
+        "titleDe": "Zahlen",
         "img": "/one.jpeg",
         "details": [
             {
@@ -427,7 +427,7 @@
         "id": "5",
         "lesson": "Lesson 5",
         "titleEn": "Colors",
-        "titleDe": "Colors",
+        "titleDe": "Farben",
         "img": "/color.jpeg",
         "details": [
             {
@@ -571,7 +571,7 @@
         "id": "7",
         "lesson": "Lesson 7",
         "titleEn": "Furniture",
-        "titleDe": "Furniture",
+        "titleDe": "Möbel",
         "img": "/furniture.jpeg",
         "details": [
             {

@@ -10,14 +10,19 @@ const Layout = () => {
         <Navbar bg="dark" data-bs-theme="dark">
             <Container>
             <Navbar.Brand href="/">CREATIVE EDU</Navbar.Brand>
-            <Nav className="me-auto">
+            <Navbar.Collapse id="navbarScroll">
+            <Nav
+              className="me-auto my-2 my-lg-0"
+              style={{ maxHeight: '100px' }}
+              navbarScroll
+            >
                 <Nav.Link href="/">Lessons</Nav.Link>
                 {/* <Nav.Link href="/grammar">Grammar</Nav.Link> */}
                 <Nav.Link href="/result">Result</Nav.Link>
             </Nav>
-            <Navbar.Collapse className="justify-content-end">
+
               <Navbar.Text>
-                Welcome: <a href="https://www.linkedin.com/in/shyhrete-buzaku-a3386615b/" target='_blank'>Shyhrete Buzaku</a>
+                <a href="https://www.linkedin.com/in/shyhrete-buzaku-a3386615b/" target='_blank'>Shyhrete Buzaku</a>
               </Navbar.Text>
             </Navbar.Collapse>
             </Container>
