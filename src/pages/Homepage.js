@@ -11,7 +11,7 @@ const Homepage = () => {
   return (
     <div>
         <Container>
-            <Row>
+            <Row className='mt-5'>
                 {
                     data.map((d)=>{
                         return(

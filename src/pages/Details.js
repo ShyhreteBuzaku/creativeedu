@@ -19,7 +19,7 @@ const Details = () => {
       <div>
           
         <Container>
-            <Row style={{textAlign:"center", marginTop:"30px"}}>
+            <Row style={{textAlign:"center", marginTop:"100px"}}>
                 <Alert key={"success"} variant={"success"}>
                     <div style={{display:"flex", alignItems:"center", alignContent:"center", justifyContent:"center"}}>
                         <img src="/germany.png" height={"25px"} style={{paddingBottom:"5px"}}/> &nbsp;

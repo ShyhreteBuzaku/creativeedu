@@ -7,7 +7,7 @@ import { Outlet } from 'react-router-dom';
 const Layout = () => {
   return (
     <div>
-        <Navbar bg="dark" data-bs-theme="dark">
+        <Navbar bg="dark" fixed="top" data-bs-theme="dark">
             <Container>
             <Navbar.Brand href="/">CREATIVE EDU</Navbar.Brand>
             <Navbar.Collapse id="navbarScroll">
