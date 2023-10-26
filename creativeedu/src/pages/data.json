@@ -1,0 +1,579 @@
+[
+    {
+        "id": "1",
+        "lesson": "Lesson 1",
+        "titleEn": "Hello and Goodbye",
+        "titleDe": "Hallo und Tscuss",
+        "img": "/hello.jpeg",
+        "details": [
+            {
+                "id": "1",
+                "img": "/hello.jpeg",
+                "titleEn": "Hello",
+                "titleDe": "Hallo",
+                "description": "a word we say when we see someone and want to greet them, or when we begin to talk on the phone"
+            },
+            {
+                "id": "2",
+                "img": "/good-morning.jpeg",
+                "titleEn": "Good Morning",
+                "titleDe": "Guten Morgen",
+                "description": "something we say when we want to greet or say hello to someone in the morning"
+            },
+            {
+                "id": "3",
+                "img": "/good-afternoon.jpeg",
+                "titleEn": "Good afternoon",
+                "titleDe": "Guten Tag",
+                "description": "something we say when we want to say hello or goodbye to a person in the afternoon"
+            },
+            {
+                "id": "4",
+                "img": "/good-evening.jpeg",
+                "titleEn": "Good evening",
+                "titleDe": "Guten Abend",
+                "description": "something we say when we want to say hello or goodbye to a person in the evening"
+            },
+            {
+                "id": "5",
+                "img": "/good-night.jpeg",
+                "titleEn": "Good night",
+                "titleDe": "Hallo",
+                "description": "something we say when we want to say goodbye to a person at night or before we go to bed"
+            },
+            {
+                "id": "6",
+                "img": "/goodbye.jpeg",
+                "titleEn": "Bye",
+                "titleDe": "Tschuss",
+                "description": "a word we say when we are leaving someone or when they are leaving, or at the end of a phone call"
+            }
+
+        ]
+    },
+    {
+        "id": "2",
+        "lesson": "Lesson 2",
+        "titleEn": "Food",
+        "titleDe": "Food",
+        "img": "/food.jpeg",
+        "details": [
+            {
+                "id": "1",
+                "img": "/meat.jpeg",
+                "titleEn": "Meat",
+                "titleDe": "Fleisch",
+                "description": "the flesh of animals and birds that can be eaten as food"
+            },
+            {
+                "id": "2",
+                "img": "/fish.jpeg",
+                "titleEn": "Fish",
+                "titleDe": "Fisch",
+                "description": "flesh from a fish that is used as food"
+            },
+            {
+                "id": "3",
+                "img": "/potato.jpeg",
+                "titleEn": "Potato",
+                "titleDe": "Kartoffel",
+                "description": "a round vegetable that grows beneath the ground, has light brown skin, and is used cooked or fried"
+            },
+            {
+                "id": "4",
+                "img": "/tomato.jpeg",
+                "titleEn": "Tomato",
+                "titleDe": "Tomate",
+                "description": "a soft and round fruit that is red and is used a lot in salads and many other foods"
+            },
+            {
+                "id": "5",
+                "img": "/apple.jpeg",
+                "titleEn": "Apple",
+                "titleDe": "Apfel",
+                "description": "a fruit that is round and has thin yellow, red, or green skin"
+            },
+            {
+                "id": "6",
+                "img": "/orange.jpeg",
+                "titleEn": "Orange",
+                "titleDe": "Orange",
+                "description": "a fruit that is juicy and round and has thick skin"
+            },
+            {
+                "id": "7",
+                "img": "/banana.jpeg",
+                "titleEn": "Banana",
+                "titleDe": "Banane",
+                "description": "a soft fruit that is long and curved and has hard yellow skin"
+            },
+            {
+                "id": "8",
+                "img": "/milk.jpeg",
+                "titleEn": "Milk",
+                "titleDe": "Milch",
+                "description": "the white liquid we get from cows, sheep, or goats that we drink and use for making cheese, butter, etc."
+            },
+            {
+                "id": "9",
+                "img": "/cheese.jpeg",
+                "titleEn": "Cheese",
+                "titleDe": "Käse",
+                "description": "a soft or hard food made from milk that is usually yellow or white in color"
+            },
+            {
+                "id": "10",
+                "img": "/butter.jpeg",
+                "titleEn": "Butter",
+                "titleDe": "Butter",
+                "description": "a soft, yellow food made from cream that we spread on bread or use in cooking"
+            },
+            {
+                "id": "11",
+                "img": "/egg.jpeg",
+                "titleEn": "Egg",
+                "titleDe": "Ei",
+                "description": "an oval or round thing that is produced by a chicken and can be used for food"
+            }
+
+
+        ]
+    },
+    {
+        "id": "3",
+        "lesson": "Lesson 3",
+        "titleEn": "Family",
+        "titleDe": "Familien",
+        "img": "/family.jpeg",
+        "details": [
+            {
+                "id": "1",
+                "img": "/parent.jpeg",
+                "titleEn": "Parents",
+                "titleDe": "Eltern",
+                "description": "our mother or our father"
+            },
+            {
+                "id": "2",
+                "img": "/father.jpeg",
+                "titleEn": "Father",
+                "titleDe": "Vater",
+                "description": "a child's male parent"
+            },
+            {
+                "id": "3",
+                "img": "/mother.jpeg",
+                "titleEn": "Mother",
+                "titleDe": "Mutter",
+                "description": "a child's female parent"
+            },
+            {
+                "id": "4",
+                "img": "/son.jpeg",
+                "titleEn": "Son",
+                "titleDe": "Sohn",
+                "description": "a person's male child"
+            },
+            {
+                "id": "5",
+                "img": "/daughter.jpeg",
+                "titleEn": "Daughter",
+                "titleDe": "Tochter",
+                "description": "a person's female child"
+            },
+            {
+                "id": "6",
+                "img": "/brother.jpeg",
+                "titleEn": "Brother",
+                "titleDe": "Bruder",
+                "description": "a man who shares a mother and father with us"
+            },
+            {
+                "id": "7",
+                "img": "/sister.jpeg",
+                "titleEn": "Sister",
+                "titleDe": "Schwester",
+                "description": "a lady who shares a mother and father with us"
+            },
+            {
+                "id": "8",
+                "img": "/grandfather.jpeg",
+                "titleEn": "Grandfather",
+                "titleDe": "Großvater",
+                "description": "the man who is our mom or dad's father"
+            },
+            {
+                "id": "9",
+                "img": "/grandmother.jpeg",
+                "titleEn": "Grandmother",
+                "titleDe": "Großmutter",
+                "description": "the woman who is our mom or dad's mother"
+            }
+
+        ]
+    },
+    {
+        "id": "4",
+        "lesson": "Lesson 4",
+        "titleEn": "Numbers",
+        "titleDe": "Nummers",
+        "img": "/one.jpeg",
+        "details": [
+            {
+                "id": "1",
+                "img": "/zero.jpeg",
+                "titleEn": "Zero",
+                "titleDe": "Null",
+                "description": "the number 0; nothing of something"
+            },
+            {
+                "id": "2",
+                "img": "/one.jpeg",
+                "titleEn": "One",
+                "titleDe": "Eins",
+                "description": "the number 1; the number of sun in the sky"
+            },
+            {
+                "id": "3",
+                "img": "/two.jpeg",
+                "titleEn": "Two",
+                "titleDe": "Zwei",
+                "description": "the number 2; the number of wheels on a bicycle"
+            },
+            {
+                "id": "4",
+                "img": "/three.jpeg",
+                "titleEn": "Three",
+                "titleDe": "Drei",
+                "description": "the number 3; the number of sides in a triangle"
+            },
+            {
+                "id": "5",
+                "img": "/four.jpeg",
+                "titleEn": "Four",
+                "titleDe": "Vier",
+                "description": "the number 4; the number of seasons in a year"
+            },
+            {
+                "id": "6",
+                "img": "/five.jpeg",
+                "titleEn": "Five",
+                "titleDe": "Fünf",
+                "description": "the number 5; the number of fingers we have on one hand"
+            },
+            {
+                "id": "7",
+                "img": "/six.jpeg",
+                "titleEn": "Six",
+                "titleDe": "Sechs",
+                "description": "the number 6; the number of strings on some guitars"
+            },
+            {
+                "id": "8",
+                "img": "/seven.jpeg",
+                "titleEn": "Seven",
+                "titleDe": "Sieben",
+                "description": "the number 7; the number of days in a week"
+            },
+            {
+                "id": "9",
+                "img": "/eight.jpeg",
+                "titleEn": "Eight",
+                "titleDe": "Acht",
+                "description": "the number 8; the number of legs on a spider"
+            },
+            {
+                "id": "10",
+                "img": "/nine.jpeg",
+                "titleEn": "Nine",
+                "titleDe": "Neun",
+                "description": "the number 9; the number of months in a normal pregnancy"
+            },
+            {
+                "id": "11",
+                "img": "/ten.jpeg",
+                "titleEn": "Ten",
+                "titleDe": "Zehn",
+                "description": "the number 10; the number of fingers we have on both hands"
+            },
+            {
+                "id": "12",
+                "img": "/eleven.jpeg",
+                "titleEn": "Eleven",
+                "titleDe": "Elf",
+                "description": "the number 11; the number of players on a soccer team"
+            },
+            {
+                "id": "13",
+                "img": "/twelve.jpeg",
+                "titleEn": "Twelve",
+                "titleDe": "Zwölf",
+                "description": "the number 12; the number of months in a year"
+            },
+            {
+                "id": "14",
+                "img": "/thirteen.jpeg",
+                "titleEn": "Thirteen",
+                "titleDe": "Dreizehn",
+                "description": "the number 13; the number of weeks in a season"
+            },
+            {
+                "id": "15",
+                "img": "/fourteen.jpeg",
+                "titleEn": "Fourteen",
+                "titleDe": "Vierzehn",
+                "description": "the number 14; the number of days in two weeks"
+            },
+            {
+                "id": "16",
+                "img": "/fifteen.jpeg",
+                "titleEn": "Fifteen",
+                "titleDe": "Fünfzehn",
+                "description": "the number 15; the number of fingers in three hands"
+            },
+            {
+                "id": "17",
+                "img": "/sixteen.jpeg",
+                "titleEn": "Sixteen",
+                "titleDe": "Sechzehn",
+                "description": "the number 16; the number of pieces each side has in a game of chess"
+            },
+            {
+                "id": "18",
+                "img": "/seventeen.jpeg",
+                "titleEn": "Seventeen",
+                "titleDe": "Siebzehn",
+                "description": "the number 17; the number of days in two weeks and three days"
+            },
+            {
+                "id": "19",
+                "img": "/eighteen.jpeg",
+                "titleEn": "Eighteen",
+                "titleDe": "Achtzehn",
+                "description": "the number 18; the number of squares in three cubes"
+            },
+            {
+                "id": "20",
+                "img": "/nineteen.jpeg",
+                "titleEn": "Nineteen",
+                "titleDe": "Neunzehn",
+                "description": "the number 19; the number of months in a year and seven months"
+            },
+            {
+                "id": "21",
+                "img": "/twenty.jpeg",
+                "titleEn": "Twenty",
+                "titleDe": "Zwanzig",
+                "description": "the number 20; the number of fingers and toes that we have"
+            },
+            {
+                "id": "22",
+                "img": "/thirty.jpeg",
+                "titleEn": "Thirty",
+                "titleDe": "Dreißig",
+                "description": "the number 30; the number of days in April, June, September, and November"
+            },
+            {
+                "id": "23",
+                "img": "/forty.jpeg",
+                "titleEn": "Forty",
+                "titleDe": "Vierzig",
+                "description": "the number 40; the number of fingers that four people have"
+            },
+            {
+                "id": "24",
+                "img": "/fifty.jpeg",
+                "titleEn": "Fifty",
+                "titleDe": "Fünfzig",
+                "description": "the number 50; the number of fingers on five monkeys"
+            },
+            {
+                "id": "25",
+                "img": "/sixty.jpeg",
+                "titleEn": "Sechzig",
+                "description": "the number 60; the number of fingers and toes that three people have"
+            },
+            {
+                "id": "26",
+                "img": "/seventy.jpeg",
+                "titleEn": "Seventy",
+                "titleDe": "Siebzig",
+                "description": "the number 70; the number of legs on seven crabs"
+            },
+            {
+                "id": "27",
+                "img": "/eighty.jpeg",
+                "titleEn": "Eighty",
+                "titleDe": "Achtzig",
+                "description": "the number 80; the number we get when we multiply eight by ten"
+            },
+            {
+                "id": "28",
+                "img": "/ninety.jpeg",
+                "titleEn": "Ninety",
+                "titleDe": "Neunzig",
+                "description": "the number 90; the number of degrees for a right angle"
+            },
+            {
+                "id": "29",
+                "img": "/hundred.jpeg",
+                "titleEn": "Hundred",
+                "titleDe": "Hundert",
+                "description": "the number 100; the number of years in a century"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "lesson": "Lesson 5",
+        "titleEn": "Colors",
+        "titleDe": "Colors",
+        "img": "/color.jpeg",
+        "details": [
+            {
+                "id": "1",
+                "img": "/black.jpeg",
+                "titleEn": "Black",
+                "titleDe": "Schwarz",
+                "description": "having the color that is the darkest, like most crows"
+            },
+            {
+                "id": "2",
+                "img": "/white.jpeg",
+                "titleEn": "White",
+                "titleDe": "Weiß",
+                "description": "having the color that is the lightest, like snow"
+            },
+            {
+                "id": "3",
+                "img": "/blue.jpeg",
+                "titleEn": "Blue",
+                "titleDe": "Blau",
+                "description": "having the color of the ocean or clear sky at daytime"
+            },
+            {
+                "id": "4",
+                "img": "/green.jpeg",
+                "titleEn": "Green",
+                "titleDe": "Grün",
+                "description": "having the color of fresh grass or most plant leaves"
+            },
+            {
+                "id": "5",
+                "img": "/yellow.jpeg",
+                "titleEn": "Yellow",
+                "titleDe": "Gelb",
+                "description": "having the color of lemons or the sun"
+            },
+            {
+                "id": "6",
+                "img": "/red.jpeg",
+                "titleEn": "Red",
+                "titleDe": "Rot",
+                "description": "having the color of tomatoes or blood"
+            },
+            {
+                "id": "7",
+                "img": "/orange-1.jpeg",
+                "titleEn": "Orange",
+                "titleDe": "Orange", 
+                "description": "having the color of carrots or pumpkins"
+            },
+            {
+                "id": "8",
+                "img": "/pink.jpeg",
+                "titleEn": "Pink",
+                "titleDe": "Rosa",
+                "description": "having the color of strawberry ice cream"
+            },
+            {
+                "id": "9",
+                "img": "/brown.jpeg",
+                "titleEn": "Brown",
+                "titleDe": "Braun",
+                "description": "having the color of carrots or pumpkins"
+            },
+            {
+                "id": "10",
+                "img": "/gray.jpeg",
+                "titleEn": "Gray",
+                "titleDe": "Grau",
+                "description": "having the color of strawberry ice cream"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "lesson": "Lesson 6",
+        "titleEn": "House",
+        "titleDe": "Haus",
+        "img": "building.jpeg",
+        "details": [
+            {
+                "id": "1",
+                "img": "/house.jpeg",
+                "titleEn": "House",
+                "titleDe": "Haus",
+                "description": "the place that we live in, usually with our family"
+            },
+            {
+                "id": "2",
+                "img": "/apartment.jpeg",
+                "titleEn": "Apartment",
+                "titleDe": "Wohnung",
+                "description": "a place that has a few rooms for people to live in, normally part of a building that has other such places on each floor"
+            },
+            {
+                "id": "3",
+                "img": "/floor.jpeg",
+                "titleEn": "Floor",
+                "titleDe": "Boden",
+                "description": "the bottom of a room that we walk on"
+            },
+            {
+                "id": "4",
+                "img": "/room.jpeg",
+                "titleEn": "Room",
+                "titleDe": "Zimmer",
+                "description": "each of the different parts of a building that are divided by their own floors, ceilings, and walls, and are used for a specific reason"
+            },
+            {
+                "id": "5",
+                "img": "/living-room.jpeg",
+                "titleEn": "Living Room",
+                "titleDe": "Wohnzimmer",
+                "description": "the part of a house where people spend time together talking, watching television, relaxing, etc."
+            },
+            {
+                "id": "6",
+                "img": "/kitchen.jpeg",
+                "titleEn": "Kitchen",
+                "titleDe": "Küche",
+                "description": "the place in a building or home where we make food"
+            },
+            {
+                "id": "7",
+                "img": "/bedroom.jpeg",
+                "titleEn": "Bedroom",
+                "titleDe": "Schlafzimmer",
+                "description": "a room we use for sleeping"
+            },
+            {
+                "id": "8",
+                "img": "/bathroom.jpeg",
+                "titleEn": "Bathroom",
+                "titleDe": "Badezimmer",
+                "description": "a room that has a toilet and a sink, and often times a bathtub or a shower as well"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "lesson": "Lesson 7",
+        "titleEn": "Furniture",
+        "titleDe": "Furniture",
+        "img": "/furniture.jpeg",
+        "details": []
+    }
+
+]
