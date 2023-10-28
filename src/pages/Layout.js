@@ -18,7 +18,7 @@ const Layout = () => {
             >
                 <Nav.Link href="/">Lessons</Nav.Link>
                 {/* <Nav.Link href="/grammar">Grammar</Nav.Link> */}
-                <Nav.Link href="/result">Result</Nav.Link>
+                {/* <Nav.Link href="/result">Result</Nav.Link> */}
             </Nav>
 
               <Navbar.Text>
