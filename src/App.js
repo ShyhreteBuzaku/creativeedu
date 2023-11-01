@@ -4,7 +4,7 @@ import Homepage from './pages/Homepage';
 import Layout from './pages/Layout';
 import NoPage from './pages/NoPage';
 import Details from './pages/Details';
-import Result from './pages/Result';
+import Grammar from './pages/Grammar';
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
         <Route path="/" element={<Layout/>}>
           <Route index element={<Homepage />} />
           <Route path="/details/:id"  element={<Details/>}/>
-          {/* <Route path="/result" element={<Result />} /> */}
+          <Route path="/grammar" element={<Grammar />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

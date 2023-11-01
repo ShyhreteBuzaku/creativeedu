@@ -1,0 +1,126 @@
+{
+    "verbs": [
+      {
+        "infinitive": "sprechen",
+        "conjugations": {
+          "ich": "spreche",
+          "du": "sprichst",
+          "er/sie/es": "spricht",
+          "wir": "sprechen",
+          "ihr": "sprecht",
+          "sie/Sie": "sprechen"
+        }
+      },
+      {
+        "infinitive": "arbeiten",
+        "conjugations": {
+          "ich": "arbeite",
+          "du": "arbeitest",
+          "er/sie/es": "arbeitet",
+          "wir": "arbeiten",
+          "ihr": "arbeitet",
+          "sie/Sie": "arbeiten"
+        }
+      },
+      {
+        "infinitive": "spielen",
+        "conjugations": {
+          "ich": "spiele",
+          "du": "spielst",
+          "er/sie/es": "spielt",
+          "wir": "spielen",
+          "ihr": "spielt",
+          "sie/Sie": "spielen"
+        }
+      },
+      {
+        "infinitive": "kommen",
+        "conjugations": {
+          "ich": "komme",
+          "du": "kommst",
+          "er/sie/es": "kommt",
+          "wir": "kommen",
+          "ihr": "kommt",
+          "sie/Sie": "kommen"
+        }
+      },
+      {
+        "infinitive": "machen",
+            "conjugations": {
+                "ich": "mache",
+                "du": "machst",
+                "er/sie/es": "macht",
+                "wir": "machen",
+                "ihr": "macht",
+                "sie/Sie": "machen"
+            }
+        },
+      {
+        "infinitive": "essen",
+        "conjugations": {
+          "ich": "esse",
+          "du": "isst",
+          "er/sie/es": "isst",
+          "wir": "essen",
+          "ihr": "esst",
+          "sie/Sie": "essen"
+        }
+      },
+      {
+        "infinitive": "trinken",
+        "conjugations": {
+          "ich": "trinke",
+          "du": "trinkst",
+          "er/sie/es": "trinkt",
+          "wir": "trinken",
+          "ihr": "trinkt",
+          "sie/Sie": "trinken"
+        }
+      },
+      {
+        "infinitive": "lesen",
+        "conjugations": {
+          "ich": "lese",
+          "du": "liest",
+          "er/sie/es": "liest",
+          "wir": "lesen",
+          "ihr": "lest",
+          "sie/Sie": "lesen"
+        }
+      },
+      {
+        "infinitive": "gehen",
+        "conjugations": {
+          "ich": "gehe",
+          "du": "gehst",
+          "er/sie/es": "geht",
+          "wir": "gehen",
+          "ihr": "geht",
+          "sie/Sie": "gehen"
+        }
+      },
+      {
+        "infinitive": "haben",
+        "conjugations": {
+          "ich": "habe",
+          "du": "hast",
+          "er/sie/es": "hat",
+          "wir": "haben",
+          "ihr": "habt",
+          "sie/Sie": "haben"
+        }
+      },
+      {
+        "infinitive": "sein",
+        "conjugations": {
+          "ich": "bin",
+          "du": "bist",
+          "er/sie/es": "ist",
+          "wir": "sind",
+          "ihr": "seid",
+          "sie/Sie": "sind"
+        }
+      }
+    ]
+  }
+  
