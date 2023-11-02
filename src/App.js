@@ -5,6 +5,7 @@ import Layout from './pages/Layout';
 import NoPage from './pages/NoPage';
 import Details from './pages/Details';
 import Grammar from './pages/Grammar';
+import Time from './pages/Time';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route index element={<Homepage />} />
           <Route path="/details/:id"  element={<Details/>}/>
           <Route path="/grammar" element={<Grammar />} />
+          <Route path="/time" element={<Time />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

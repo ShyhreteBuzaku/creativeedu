@@ -1,0 +1,59 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "image": "times/2_Uhr.webp",
+        "title": "02:00",
+        "description": "Es ist zwei Uhr."
+      },
+      {
+        "id": 2,
+        "image": "times/5_Uhr.webp",
+        "title": "05:00",
+        "description": "Es ist fünf Uhr."
+      },
+      {
+        "id": 3,
+        "image": "times/9_Uhr.webp",
+        "title": "09:00",
+        "description": "Es ist neun Uhr."
+      },
+      {
+        "id": 4,
+        "image": "times/1_15Uhr.webp",
+        "title": "01:15",
+        "description": "Es ist viertel nach eins."
+      },
+      {
+        "id": 5,
+        "image": "times/10_15Uhr.webp",
+        "title": "10:15",
+        "description": "Es ist viertel nach zehn."
+      },
+      {
+        "id": 6,
+        "image": "times/3_30Uhr.webp",
+        "title": "03:30",
+        "description": "Es ist halb vier."
+      },
+      {
+        "id": 7,
+        "image": "times/7_30Uhr.webp",
+        "title": "7:30",
+        "description": "Es ist halb acht."
+      },
+      {
+        "id": 8,
+        "image": "times/11_30Uhr.webp",
+        "title": "11:30",
+        "description": "Es ist halb zwölf."
+      },
+      {
+        "id": 9,
+        "image": "times/4_45Uhr.webp",
+        "title": "04:45",
+        "description": "Es ist viertel vor fünf."
+      }
+    ]
+  }
+  
