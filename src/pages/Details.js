@@ -33,7 +33,7 @@ const Details = () => {
             </Row>
             <Row>
             {lesson.details.map(detail => (
-                <Col md={4} className='my-4' key={detail.id}>
+                <Col md={3} className='my-4' key={detail.id}>
                     <Card>
                         <Card.Img variant="top" src={detail.img} />
                         <Card.Body>

@@ -3,7 +3,7 @@
         "id": "1",
         "lesson": "Lesson 1",
         "titleEn": "Hello and Goodbye",
-        "titleDe": "Hallo und Tscuss",
+        "titleDe": "Hallo und Tschuss",
         "img": "/hello.jpeg",
         "details": [
             {
@@ -625,6 +625,142 @@
             }
 
         ]
+    },
+    {
+        "id": "8",
+        "lesson": "Lesson 8",
+        "titleEn": "Weather",
+        "titleDe": "Wetter",
+        "img": "/weather/weather.jpeg",
+        "details": [
+            {
+              "id": "1",
+              "img": "/weather/cloudy.jpeg",
+              "titleEn": "Cloudy",
+              "titleDe": "Bewölkt",
+              "description": "having many clouds up in the sky"
+            },
+            {
+              "id": "2",
+              "img": "/weather/cold.jpeg",
+              "titleEn": "Cold",
+              "titleDe": "Kalt",
+              "description": "having a temperature lower than the human body's average temperature"
+            },
+            {
+              "id": "3",
+              "img": "/weather/hot.jpeg",
+              "titleEn": "Hot",
+              "titleDe": "Heiß",
+              "description": "having a high temperature or a high degree of heat"
+            },
+            {
+              "id": "4",
+              "img": "/weather/snowing.jpeg",
+              "titleEn": "Snowing",
+              "titleDe": "Schneefall",
+              "description": "(of a period of time or weather) having or bringing snow"
+            },
+            {
+              "id": "5",
+              "img": "/weather/rainy.jpeg",
+              "titleEn": "Rainy",
+              "titleDe": "Regnerisch",
+              "description": "having or bringing a lot of rain"
+            }
+          ]          
+    },
+    {
+        "id": "9",
+        "lesson": "Lesson 9",
+        "titleEn": "Opposite Adjectives",
+        "titleDe": "Entgegengesetzte Adjektive",
+        "img": "/opposite/opposite.jpeg",
+        "details": [
+            {
+              "id": "1",
+              "img": "/opposite/good.jpeg",
+              "titleEn": "Good",
+              "titleDe": "Gut",
+              "description": "having a standard or quality that is satisfying"
+            },
+            {
+              "id": "2",
+              "img": "/opposite/bad.jpeg",
+              "titleEn": "Bad",
+              "titleDe": "Schlecht",
+              "description": "having a standard or quality that is unsatisfying"
+            },
+            {
+              "id": "3",
+              "img": "/opposite/big.jpeg",
+              "titleEn": "Big",
+              "titleDe": "Groß",
+              "description": "large or above average in size, amount, degree, etc."
+            },
+            {
+              "id": "4",
+              "img": "/opposite/small.jpeg",
+              "titleEn": "Small",
+              "titleDe": "Klein",
+              "description": "little or below average in size, amount, degree, etc."
+            },
+            {
+              "id": "5",
+              "img": "/opposite/cheap.jpeg",
+              "titleEn": "Cheap",
+              "titleDe": "Billig",
+              "description": "having a low price"
+            },
+            {
+              "id": "6",
+              "img": "/opposite/expensive.jpeg",
+              "titleEn": "Expensive",
+              "titleDe": "Teuer",
+              "description": "having a high price"
+            },
+            {
+              "id": "7",
+              "img": "/opposite/open.jpeg",
+              "titleEn": "Open",
+              "titleDe": "Offen",
+              "description": "letting people or things pass through"
+            },
+            {
+              "id": "8",
+              "img": "/opposite/closed.jpeg",
+              "titleEn": "Closed",
+              "titleDe": "Geschlossen",
+              "description": "not letting things, people, etc. go in or out"
+            },
+            {
+              "id": "9",
+              "img": "/opposite/correct.jpeg",
+              "titleEn": "Correct",
+              "titleDe": "Richtig",
+              "description": "based on the truth and without mistakes"
+            },
+            {
+              "id": "10",
+              "img": "/opposite/incorrect.jpeg",
+              "titleEn": "Incorrect",
+              "titleDe": "Falsch",
+              "description": "having mistakes; not correct or true"
+            },
+            {
+              "id": "11",
+              "img": "/opposite/new.jpeg",
+              "titleEn": "New",
+              "titleDe": "Neu",
+              "description": "recently built, invented, made, etc."
+            },
+            {
+              "id": "12",
+              "img": "/opposite/old.jpeg",
+              "titleEn": "Old",
+              "titleDe": "Alt",
+              "description": "(of a thing) having been used or existing for a long period of time"
+            }
+        ]
     }
-
-]
+]          
